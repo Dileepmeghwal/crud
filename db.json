@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "274a",
+      "name": "description",
+      "price": 100
+    },
+    {
+      "id": "87be",
+      "name": "books",
+      "price": 233
+    }
+  ]
+}
